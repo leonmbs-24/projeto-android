@@ -12,7 +12,7 @@ a.externo::after {
 
 * {
     margin: 0px;
-    padding: opx;
+    padding: 0px;
 
 }
 
@@ -35,7 +35,7 @@ header {
     min-height: 150px;
 }
 
-header>h1 {
+header > h1 {
     text-align: center;
     color: var(--cor5);
     font-family: var(--fonte-android);
@@ -54,6 +54,7 @@ header>p {
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px #0000001a;
 
 }
